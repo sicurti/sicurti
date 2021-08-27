@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sicurti
+- 👀 I’m interested in front end software development
+- 🌱 I’m currently learning javascript, html, css, reactjs
+- 📫 How to reach me sihcurti@gmail.com
